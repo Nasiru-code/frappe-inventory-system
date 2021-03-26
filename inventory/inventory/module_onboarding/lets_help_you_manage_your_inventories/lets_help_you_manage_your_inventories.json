@@ -1,0 +1,32 @@
+{
+ "allow_roles": [
+  {
+   "role": "Administrator"
+  }
+ ],
+ "creation": "2021-03-26 11:57:50.460374",
+ "docstatus": 0,
+ "doctype": "Module Onboarding",
+ "documentation_url": "url",
+ "idx": 0,
+ "is_complete": 0,
+ "modified": "2021-03-26 11:57:50.460374",
+ "modified_by": "Administrator",
+ "module": "Inventory",
+ "name": "LETS HELP YOU MANAGE YOUR INVENTORIES",
+ "owner": "Administrator",
+ "steps": [
+  {
+   "step": "Department"
+  },
+  {
+   "step": "Items Inventory"
+  },
+  {
+   "step": "Damaged Items"
+  }
+ ],
+ "subtitle": "INVENTORY",
+ "success_message": "Successful",
+ "title": "INVENTORY"
+}
